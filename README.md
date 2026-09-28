@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hi, I'm X3ru4, a guy with a lot of free time.
+
+<div align="center"><b>Tools and languages</b></div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+</div>
+
 <!--
 **X3ru4/X3ru4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
