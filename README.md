@@ -2,6 +2,8 @@
 
 Hi, I'm X3ru4, a guy with a lot of free time.
 
+---
+
 <h3 align="center">Tools and languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -16,4 +18,10 @@ Hi, I'm X3ru4, a guy with a lot of free time.
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
+---
+
+<h3 align="center">Contribution</h3>
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=X3ru4&style=for-the-badge"/></p>
