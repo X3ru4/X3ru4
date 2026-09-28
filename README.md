@@ -15,3 +15,5 @@ Hi, I'm X3ru4, a guy with a lot of free time.
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
